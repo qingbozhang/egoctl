@@ -21,6 +21,7 @@ require (
 	github.com/uber/prototool v1.10.0
 	go.uber.org/zap v1.16.0
 	gopkg.in/yaml.v2 v2.4.0
+	vitess.io/vitess v0.9.0 // indirect
 )
 
 replace github.com/uber/prototool v1.10.0 => github.com/gotomicro/prototool v1.10.1-0.20210304081706-a1439f175b8c
